@@ -1,4 +1,4 @@
-# ServiceFrameworkV2
+# ServiceFramework
 C# Windows Service Framework.
 
 The framework provides processing, logging and health monitoring capabilities using performance counters for windows services.
