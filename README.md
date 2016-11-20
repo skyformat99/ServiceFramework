@@ -1,5 +1,5 @@
 # ServiceFramework
-C# Windows Service Framework.
+Basic C# Windows Service Framework.
 
 The framework provides task processing, logging and health monitoring capabilities by using performance counters.
 
